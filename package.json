@@ -1,0 +1,26 @@
+{
+  "name": "yieldify-tech-test",
+  "version": "1.0.0",
+  "description": "### JavaScript canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fg24davies/yieldifyTechTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fg24davies/yieldifyTechTest/issues"
+  },
+  "homepage": "https://github.com/fg24davies/yieldifyTechTest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^13.0.2",
+    "jest": "^27.2.0",
+    "nodemon": "^2.0.12"
+  }
+}
