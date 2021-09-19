@@ -1,5 +1,7 @@
 # Bouncing Balls for Yieldify Tech Test
 
+[![Build Status](https://app.travis-ci.com/fg24davies/yieldifyTechTest.svg?branch=main)](https://app.travis-ci.com/fg24davies/yieldifyTechTest)
+
 ### JavaScript canvas
 
 [] explain canvas
