@@ -1,0 +1,12 @@
+/* no padding or margin to fill the entire screen with the canvas element*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* will default to size of canvas but now will fill the entire browser but need to resize in script*/
+canvas {
+  height: 100%;
+  position: fixed;
+  width: 100%;
+}
