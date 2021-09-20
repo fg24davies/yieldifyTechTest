@@ -7,12 +7,12 @@
 ### JavaScript canvas
 
 [] explain canvas
-[] draw ball
+[x] draw ball
 [] move on click
-[] gravity
-[] friction
-[] random colour ball  
-[] random size ball
+[x] gravity
+[x] friction
+[x] random colour ball  
+[x] random size ball
 [] tests?
-[] host on heroku
+[x] host on heroku
 [] write readme
