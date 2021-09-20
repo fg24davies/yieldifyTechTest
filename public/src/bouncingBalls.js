@@ -78,12 +78,12 @@ class Ball {
 
 var balls = new Array();
 
-for (let index = 0; index < 50; index++) {
-  balls.push(new Ball(500, 500));
-}
+// for (let index = 0; index < 50; index++) {
+//   balls.push(new Ball(500, 500));
+// }
 
 //const ball = new Ball(100, 100);
-
+// const ball = new Ball(100, 100);
 function loop() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   let height = document.documentElement.clientHeight;
@@ -92,6 +92,8 @@ function loop() {
   ctx.canvas.height = height;
   ctx.canvas.width = width;
 
+  // ball.draw();
+  //ball.updatePosition(width, height);
   for (let index = 0; index < balls.length; index++) {
     let ball = balls[index];
     ball.draw();
@@ -99,5 +101,12 @@ function loop() {
     //balls.push(new Ball(500, 500));
   }
 }
+
+canvas.addEventListener("click", function (e) {
+  const ball = new Ball(e.clientX, e.clientY);
+  balls.push(ball);
+  console.log("x coord", e.clientX);
+  console.log("y coord", e.clientY);
+});
 
 loop();

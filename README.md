@@ -2,8 +2,6 @@
 
 [![Build Status](https://app.travis-ci.com/fg24davies/yieldifyTechTest.svg?branch=main)](https://app.travis-ci.com/fg24davies/yieldifyTechTest)
 
-[x] Deployed on Heroku
-
 ### JavaScript canvas
 
 [] explain canvas
