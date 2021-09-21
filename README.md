@@ -2,12 +2,12 @@
 
 ### Features/Requirements:
 
-[x] When the user clicks on the page, a 'ball' (circle) is fired from the clicked position
-[x] The ball is fired at a random speed and angle.
-[x] The user can click multiple times for multiple balls to appear and bounce at the same time
-[x] Ball follows the law of gravity
-[x] Ball follows inelastic collisions with walls and floor
-[x] Ball comes to a stop
+- [x] When the user clicks on the page, a 'ball' (circle) is fired from the clicked position
+- [x] The ball is fired at a random speed and angle.
+- [x] The user can click multiple times for multiple balls to appear and bounce at the same time
+- [x] Ball follows the law of gravity
+- [x] Ball follows inelastic collisions with walls and floor
+- [x] Ball comes to a stop
 
 ### Guidelines:
 
