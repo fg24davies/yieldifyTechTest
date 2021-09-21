@@ -18,7 +18,7 @@
 - All code related to the physics of the ball should be authored by the applicant: do not use game engines, physics engines or other third party libraries to animate the balls.
 - Any 3rd party code (at all) should be clearly attributed.
 
-### How to run the prob
+### How to run the program
 
 - Hosted on Heroku: https://yieldify-tech-test.herokuapp.com/
 - Just click to play!
