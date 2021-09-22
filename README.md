@@ -35,3 +35,6 @@
 - Integrated with Travis CI showing build status below
 
 [![Build Status](https://app.travis-ci.com/fg24davies/yieldifyTechTest.svg?branch=main)](https://app.travis-ci.com/fg24davies/yieldifyTechTest)
+
+### Small update post submission
+ - Removed unnecessary route that I created for testing server set up
